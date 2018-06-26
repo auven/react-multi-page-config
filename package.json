@@ -1,0 +1,15 @@
+{
+  "name": "react-multi-page-config",
+  "version": "0.0.2",
+  "description": "react 多页配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "auven",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
